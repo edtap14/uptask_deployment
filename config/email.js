@@ -1,6 +1,6 @@
 module.exports = {
-    user: 'a0d0e152add5bf',
-    pass: 'f1fe5b6193ac10',
+    user: 'db3603eb38e11e',
+    pass: '60c83b3fe09e8f',
     host: 'smtp.mailtrap.io',
     port: '2525'
 }
